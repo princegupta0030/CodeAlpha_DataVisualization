@@ -88,6 +88,11 @@ streamlit run app.py
 
 Data Analytics Enthusiast | Python | SQL | Power BI | Streamlit | Machine Learning
 
+GitHub: https://github.com/princegupta0030
+
+LinkedIn: https://linkedin.com/in/prince2s
+
 ---
+
 
 ## ⭐ If you found this project useful, consider giving it a star!
